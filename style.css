@@ -1,0 +1,9 @@
+p{
+    color: red;
+}
+.header-container{
+    display: flex;
+}
+.logo{
+    size: 100px;
+}
